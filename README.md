@@ -12,14 +12,14 @@
 
 Soy un profesional multidisciplinario con experiencia sólida en **telecomunicaciones, ciberseguridad e ingeniería de sistemas**. Mi pasión por la tecnología me ha llevado desde el diseño de circuitos electrónicos hasta la implementación de redes empresariales y el desarrollo de sistemas inteligentes con AI e IoT.
 
-Como **educador**, comparto mi conocimiento formando a la próxima generación de ingenieros, combinando teoría con aplicaciones prácticas del mundo real.
+Como **educador**, comparto mi conocimiento formando a peritos en Electrónica, combinando teoría con aplicaciones prácticas del mundo real.
 
 ---
 
 ## 🛠️ Expertise Técnico
 
 ### 🌐 Redes y Telecomunicaciones
-- **Certificaciones:** CCNA, CCNP (Core Networking)
+- **Diplomas:** CCNA, CCNP (Core Networking)
 - **Especialidades:** Routing & Switching, Network Security, Enterprise Networking
 - **Tecnologías:** Cisco, Network Automation, SD-WAN
 
@@ -109,11 +109,11 @@ Como **educador**, comparto mi conocimiento formando a la próxima generación d
 
 ## 📊 GitHub Analytics
 
-![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonJrSantos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonJrSantos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilsonJrSantos&theme=tokyonight&hide_border=true)
 
 ---
 
