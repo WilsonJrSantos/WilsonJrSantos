@@ -49,6 +49,17 @@ Como educador, combino teoría y práctica para formar peritos en electrónica y
 | **Ciberseguridad** | <img src="https://img.shields.io/badge/70%25-yellow?style=flat&label=★★★☆☆&logoColor=white&color=f1c40f"> |
 | **Inteligencia Artificial** | <img src="https://img.shields.io/badge/65%25-red?style=flat&label=★★★☆☆&logoColor=white&color=e74c3c"> |
 
+### Alternativa Visual (Barras por Niveles)
+
+Si prefiere una apariencia de barra de progreso más directa, puede usar este formato que es una variación del badge:
+
+| Área de Habilidad | Nivel de Dominio |
+| :--- | :--- |
+| **Redes & Telecom** | ![Progress](https://img.shields.io/badge/Progress-90%25-brightgreen?style=flat&labelColor=555&logoColor=white&color=2ecc71) |
+| **Programación** | ![Progress](https://img.shields.io/badge/Progress-85%25-blue?style=flat&labelColor=555&logoColor=white&color=3498db) |
+| **IoT & Robótica** | ![Progress](https://img.shields.io/badge/Progress-80%25-orange?style=flat&labelColor=555&logoColor=white&color=e67e22) |
+| **Ciberseguridad** | ![Progress](https://img.shields.io/badge/Progress-70%25-yellow?style=flat&labelColor=555&logoColor=white&color=f1c40f) |
+| **Inteligencia Artificial** | ![Progress](https://img.shields.io/badge/Progress-65%25-red?style=flat&labelColor=555&logoColor=white&color=e74c3c) |
 
 **Personales:** Analítico · Resolutivo · Autodidacta · Adaptable · Colaborativo
 
