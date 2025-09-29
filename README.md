@@ -39,13 +39,16 @@ Como educador, combino teoría y práctica para formar peritos en electrónica y
 
 ## 📊 Habilidades (Visual Progress)
 
-| Área | Nivel |
+## 📊 Nivel de Habilidades (Visual Progress)
+
+| Área de Habilidad | Nivel de Dominio |
 | :--- | :--- |
-| **Redes & Telecom** | <img src="https://progress-bar.dev/90/?title=Redes%20%26%20Telecom" alt="90%"> |
-| **Programación** | <img src="https://progress-bar.dev/85/?title=Programaci%C3%B3n" alt="85%"> |
-| **IoT & Robótica** | <img src="https://progress-bar.dev/80/?title=IoT%20%26%20Rob%C3%B3tica" alt="80%"> |
-| **Ciberseguridad** | <img src="https://progress-bar.dev/70/?title=Ciberseguridad" alt="70%"> |
-| **Inteligencia Artificial** | <img src="https://progress-bar.dev/65/?title=AI" alt="65%"> |
+| **Redes & Telecom** | <img src="https://img.shields.io/badge/90%25-green?style=flat&label=★★★★☆&logoColor=white&color=2ecc71"> |
+| **Programación** | <img src="https://img.shields.io/badge/85%25-blue?style=flat&label=★★★★☆&logoColor=white&color=3498db"> |
+| **IoT & Robótica** | <img src="https://img.shields.io/badge/80%25-orange?style=flat&label=★★★★☆&logoColor=white&color=e67e22"> |
+| **Ciberseguridad** | <img src="https://img.shields.io/badge/70%25-yellow?style=flat&label=★★★☆☆&logoColor=white&color=f1c40f"> |
+| **Inteligencia Artificial** | <img src="https://img.shields.io/badge/65%25-red?style=flat&label=★★★☆☆&logoColor=white&color=e74c3c"> |
+
 
 **Personales:** Analítico · Resolutivo · Autodidacta · Adaptable · Colaborativo
 
