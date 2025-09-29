@@ -37,21 +37,8 @@ Como educador, combino teoría y práctica para formar peritos en electrónica y
 
 ---
 
-## 📊 Habilidades (Visual Progress)
+## 📊 Habilidades 
 
-## 📊 Nivel de Habilidades (Visual Progress)
-
-| Área de Habilidad | Nivel de Dominio |
-| :--- | :--- |
-| **Redes & Telecom** | <img src="https://img.shields.io/badge/90%25-green?style=flat&label=★★★★☆&logoColor=white&color=2ecc71"> |
-| **Programación** | <img src="https://img.shields.io/badge/85%25-blue?style=flat&label=★★★★☆&logoColor=white&color=3498db"> |
-| **IoT & Robótica** | <img src="https://img.shields.io/badge/80%25-orange?style=flat&label=★★★★☆&logoColor=white&color=e67e22"> |
-| **Ciberseguridad** | <img src="https://img.shields.io/badge/70%25-yellow?style=flat&label=★★★☆☆&logoColor=white&color=f1c40f"> |
-| **Inteligencia Artificial** | <img src="https://img.shields.io/badge/65%25-red?style=flat&label=★★★☆☆&logoColor=white&color=e74c3c"> |
-
-### Alternativa Visual (Barras por Niveles)
-
-Si prefiere una apariencia de barra de progreso más directa, puede usar este formato que es una variación del badge:
 
 | Área de Habilidad | Nivel de Dominio |
 | :--- | :--- |
